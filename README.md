@@ -77,4 +77,8 @@ The long-term vision of Detox is to explore how accessible AI tools can support 
 
 By combining computer vision, AI-assisted interpretation, and a scalable web application architecture, Detox aims to create a foundation for more accessible and data-informed water-quality assessment.
 
-Built as a student innovation project for the Xylem Global Student Innovation Challenge 2026.
+Built as a student innovation project for the Xylem Global Student Innovation Challenge 2026 
+#Contuined development Ideas include :-
+1) Adding .CSV file processing
+2) Making its processor faster 
+3) Improving accuracy 
