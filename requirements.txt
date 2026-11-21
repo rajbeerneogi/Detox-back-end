@@ -1,8 +1,6 @@
 fastapi
 uvicorn
-gunicorn
 python-multipart
 python-dotenv
 Pillow
-google
-gemini
+google-genai
